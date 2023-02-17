@@ -121,6 +121,10 @@
         <td>'.$sello.'</td>
       </tr>
       <tr>    
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>    
         <td><b>status:</b></td>
         <td>'.$status.'</td>
       </tr>
